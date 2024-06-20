@@ -11,8 +11,7 @@ CNN BASED DEEPLEARNING METHOD FOR BRAIN TUMOUR DETECTION FROM MRI SCANS
  brain tumours from 2D MRI images. We complement this CNN with traditional classifiers and deep
  learning methods, using a diverse set of MRI images that encompass varying tumour characteristics such
  as sizes, locations, shapes, and intensity levels for comprehensive model training. To validate our
- approach, we incorporated the SVM classifier and various activation algorithms such as softmax,
- RMSProp, and sigmoid. We implemented our solution using TensorFlow and Keras in Python, which are
+ approach, we incorporated the SVM classifier and various activation algorithms such as softmax, sigmoid. We implemented our solution using TensorFlow and Keras in Python, which are
  efficient programming languages.
  
    By using our approach, we can accurately detect brain tumours from MRI images, which can
